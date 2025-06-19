@@ -1,0 +1,11 @@
+pandas
+matplotlib
+pandas
+torch 
+torchvision 
+torchaudio
+transformers
+streamlit
+fasttext
+sentence_transformers
+khmer-nltk
